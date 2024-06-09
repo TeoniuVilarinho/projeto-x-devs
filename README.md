@@ -6,11 +6,11 @@
 
 - Screnshot do site versão desktop
 
-    <img src="./src/design/projeto-x-devs-desktop.png" alt="ScreenShot do site versão desktop">
+    <img src="./design/projeto-x-devs-desktop.png" alt="ScreenShot do site versão desktop">
 
 - Screnshot do site versão mobile
 
-    <img src="./src/design/projeto-x-devs-mobile.png" alt="ScreenShot do site versão mobile">
+    <img src="./design/projeto-x-devs-mobile.png" alt="ScreenShot do site versão mobile">
 
 ## Tecnologias utilizadas
 
