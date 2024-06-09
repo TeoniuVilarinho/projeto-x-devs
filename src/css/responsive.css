@@ -1,0 +1,30 @@
+@media (max-height: 654px) {
+    .cabecalho {
+        padding: 10px;
+    }
+
+    .lista-personagens {
+        height: 400px;
+    }
+}
+
+@media (max-width: 620px) {
+    .cabecalho {
+        padding: 30px 0;
+    }
+
+    .personagens-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn-seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+    }
+
+    .lista-personagens {
+        height: 500px;
+    }
+}
